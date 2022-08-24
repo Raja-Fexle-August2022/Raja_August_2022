@@ -10,15 +10,15 @@ public with sharing class MyClass
     String Str="";
     String Str="";
     String Str="";
-    String Str="";
-    String Str="";
+    String variable1="";
+    String variable2="";
     String Str="";
     public static Intiger getDemo()
     {
         value= value+10;
         return value;
-        adding value ;
-        removing value;
+        changes adding value ;
+        changes removing value;
     }
     
 }
