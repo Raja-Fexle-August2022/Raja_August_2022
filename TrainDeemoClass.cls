@@ -10,8 +10,8 @@ public with sharing class MyClass
     String Str="";
     String Str="";
     String Str="";
-    String Str="";
-    String Str="";
+    String val3="";
+    String val 4="";
     String Str="";
     String Str="";
     String Str="";
@@ -22,8 +22,8 @@ public with sharing class MyClass
 
         add some variable;
         remove some variabale;
-        adding value ;
-        removing value;
+        adding valuees in code  ;
+        removing values in code;
 
     }
     
